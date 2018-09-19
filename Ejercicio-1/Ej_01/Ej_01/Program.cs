@@ -22,6 +22,7 @@ namespace Ej_01
                     if (isNumeric == true)
                     {
                         circle.Mostrar(r);
+                        
                     }
                     else
                     {

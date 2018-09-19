@@ -37,17 +37,17 @@ namespace Library_Circle
             Console.WriteLine(" ####### Fin ###### \n");
         }
 
-        public decimal CalcularArea( decimal radio)
+        private decimal CalcularArea( decimal radio)
         {
             return PI * (radio * radio);
         }
 
-        public decimal CalcularPerimetro(decimal radio)
+        private decimal CalcularPerimetro(decimal radio)
         {
             return 2*PI*radio;
         }
 
-        public decimal CalcularDiametro(decimal radio)
+        private decimal CalcularDiametro(decimal radio)
         {
             return 2 * radio;
         }
