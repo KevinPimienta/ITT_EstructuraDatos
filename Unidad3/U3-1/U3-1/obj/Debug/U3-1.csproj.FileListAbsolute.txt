@@ -1,0 +1,7 @@
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\bin\Debug\U3-1.exe.config
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\bin\Debug\U3-1.exe
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\bin\Debug\U3-1.pdb
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\obj\Debug\U3-1.csprojAssemblyReference.cache
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\obj\Debug\U3-1.csproj.CoreCompileInputs.cache
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\obj\Debug\U3-1.exe
+C:\Users\admin-jm\Documents\ITT\Estructura de Datos\ITT_EstructuraDatos\Unidad3\U3-1\U3-1\obj\Debug\U3-1.pdb
