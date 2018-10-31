@@ -61,6 +61,8 @@ namespace ListasLigadas
                 Console.Write(" -> ");
             }
             Console.Write(" Null");
+
+          
         }
     }
 }
